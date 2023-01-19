@@ -1,0 +1,29 @@
+.App {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 2.8rem;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.appContainer {
+    border: 1px solid white;
+    border-radius: 10px;
+    padding-top: 25px;
+    min-height: 350px;
+}
+
+.complited {
+    font-size: 20px;
+    margin-bottom: 27px;
+    margin-left: 27px;
+}
+
+.complited span {
+    color: red;
+}

@@ -1,0 +1,12 @@
+.todoListContainer {
+    padding: 10px 25px;
+    user-select: none;
+}
+
+.h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 60px;
+    color: lightcoral;
+}
+
